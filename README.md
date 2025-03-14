@@ -55,6 +55,3 @@ StealthText/
 
 ## 🔥 Contributing
 Feel free to submit pull requests and improve this project!
-
-## 📜 License
-This project is open-source under the **MIT License**.
