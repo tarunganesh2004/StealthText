@@ -28,7 +28,7 @@ StealthText is a CLI-based steganography tool written in **Zig** that hides secr
 
 ### **2️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/StealthText.git
+git clone https://github.com/tarunganesh2004/StealthText.git
 cd StealthText
 ```
 
